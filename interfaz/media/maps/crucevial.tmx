@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="40" tileheight="40">
+ <tileset name="Untiled" firstgid="1" tilewidth="40" tileheight="40">
+  <image source="calle.png"/>
+ </tileset>
+ <layer name="Layer 0" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3RSw6AIBCD4REE8Qn3P63/DabsNJkm367ppmZ+bjxCT03sxd5MOobYPRwrFiRkob87GgoqNqGv5MQldpV8/d/Y++/eC3tyWLxABgAA
+  </data>
+ </layer>
+</map>
